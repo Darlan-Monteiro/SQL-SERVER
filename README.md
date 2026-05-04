@@ -3,9 +3,7 @@
 🗄️ Roadmap e Códigos de Estudo
 Este repositório documenta a minha jornada prática de estudos em SQL Server. Aqui você encontrará todos os scripts, exercícios e anotações, organizados de acordo com a minha evolução no banco de dados, indo desde consultas básicas até integrações complexas com Python e Power BI.
 
-"I’m not superstitious, but I am a little stitious." — Michael Scott
-
-(Eu não sou supersticioso, mas sou um pouco "sticioso" — sobre o pavor de rodar um UPDATE sem WHERE - 4ª Temporada).
+Sobre rodar  UPDATE sem WHERE, tenho certeza que o Michael Scott(The Office diria isso: "I’m not superstitious, but I am a little stitious."(Eu não sou supersticioso, mas sou um pouco "sticioso") - 4ª Temporada
 
 
 ### 🎯 Trilha de Conhecimento e Progresso
