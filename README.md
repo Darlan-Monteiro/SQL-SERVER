@@ -48,6 +48,6 @@ Fase 6: Projetos e Integrações Práticas
 - Projeto 3: Integração SQL Server e Python.
 
 🛠️ Como navegar neste repositório
-Cada tópico acima corresponde a um arquivo .sql ou uma pasta específica.
-Os scripts contêm comentários práticos (passo a passo) explicando a lógica utilizada.
-Os projetos finais estão em pastas isoladas com os scripts SQL e os arquivos das ferramentas (ex: .pbix ou .ipynb).
+- Cada tópico acima corresponde a um arquivo .sql ou uma pasta específica.
+- Os scripts contêm comentários práticos (passo a passo) explicando a lógica utilizada.
+- Os projetos finais estão em pastas isoladas com os scripts SQL e os arquivos das ferramentas (ex: .pbix ou .ipynb).
