@@ -7,7 +7,8 @@ Este repositório documenta a minha jornada prática de estudos em SQL Server. A
 
 (Eu não sou supersticioso, mas sou um pouco "sticioso" — sobre o pavor de rodar um UPDATE sem WHERE - 4ª Temporada).
 
-## 🎯 Trilha de Conhecimento e Progresso
+
+### 🎯 Trilha de Conhecimento e Progresso
 O mapeamento abaixo reflete os tópicos abordados. Os links para os códigos e pastas estão sendo adicionados conforme o avanço dos estudos.
 
 Fase 1: Fundamentos e Consultas Básicas
