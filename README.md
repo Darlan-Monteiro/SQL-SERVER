@@ -5,7 +5,7 @@ Este repositório documenta a minha jornada prática de estudos em SQL Server. A
 
 "I’m not superstitious, but I am a little stitious." — Michael Scott
 
-(Eu não sou supersticioso, mas sou um pouco "sticioso" — sobre o pavor de rodar um UPDATE sem WHERE).
+(Eu não sou supersticioso, mas sou um pouco "sticioso" — sobre o pavor de rodar um UPDATE sem WHERE - 4ª Temporada).
 
 🎯 Trilha de Conhecimento e Progresso
 O mapeamento abaixo reflete os tópicos abordados. Os links para os códigos e pastas estão sendo adicionados conforme o avanço dos estudos.
