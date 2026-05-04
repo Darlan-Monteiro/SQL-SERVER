@@ -1,0 +1,10 @@
+SELECT *
+FROM DimProduct
+
+SELECT
+	BrandName AS 'NOME DA MARCA',
+	COUNT(*) AS 'QTDE TOTAL'
+FROM
+	DimProduct
+GROUP BY
+	BrandName
